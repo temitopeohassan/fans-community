@@ -1,0 +1,145 @@
+{
+  "creators": [
+    {
+        "id": 1,
+        "name": "Sarah Chen",
+        "category": "Digital Art",
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400&h=400&auto=format&fit=crop",
+        "cover": "https://images.unsplash.com/photo-1563089145-599997674d42?q=80&w=1200&auto=format&fit=crop",
+        "patrons": 1234,
+        "description": "Creating vibrant digital art and teaching techniques",
+        "twitter": "https://x.com",
+        "instagram": "https://instagram.com",
+        "facebook": "https://facebook.com",
+        "website": "https://www.carrd.co",
+        "featured": "yes",
+        "tiers": [
+          {
+            "id": 1,
+            "name": "Fan",
+            "price": 5,
+            "benefits": [
+              "Access to patron-only posts",
+              "Behind-the-scenes content",
+              "Early access to artworks"
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Supporter",
+            "price": 10,
+            "benefits": [
+              "All previous rewards",
+              "Monthly digital wallpapers",
+              "Vote on future projects"
+            ]
+          },
+          {
+            "id": 3,
+            "name": "VIP",
+            "price": 25,
+            "benefits": [
+              "All previous rewards",
+              "Monthly live drawing sessions",
+              "Personal art feedback",
+              "Access to tutorial library"
+            ]
+          }
+        ]
+      },
+    {
+      "id": 2,
+      "name": "Mark Reynolds",
+      "category": "Music Production",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400&h=400&auto=format&fit=crop",
+      "cover": "https://images.unsplash.com/photo-1563089145-599997674d42?q=80&w=1200&auto=format&fit=crop",
+      "patrons": 856,
+      "description": "Producing original music and educational content",
+      "twitter": "https://x.com",
+    "instagram": "https://instagram.com",
+    "facebook": "https://facebook.com",
+    "website": "https://www.carrd.co",
+      "featured": "yes",
+      "tiers": [
+        {
+          "id": 1,
+          "name": "Fan",
+          "price": 5,
+          "benefits": [
+            "Access to patron-only posts",
+            "Behind-the-scenes content",
+            "Early access to artworks"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Supporter",
+          "price": 10,
+          "benefits": [
+            "All previous rewards",
+            "Monthly digital wallpapers",
+            "Vote on future projects"
+          ]
+        },
+        {
+          "id": 3,
+          "name": "VIP",
+          "price": 25,
+          "benefits": [
+            "All previous rewards",
+            "Monthly live drawing sessions",
+            "Personal art feedback",
+            "Access to tutorial library"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Elena Martinez",
+      "category": "Photography",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=400&h=400&auto=format&fit=crop",
+      "cover": "https://images.unsplash.com/photo-1563089145-599997674d42?q=80&w=1200&auto=format&fit=crop",
+      "patrons": 2341,
+      "description": "Sharing photography tips and behind-the-scenes content",
+      "twitter": "https://x.com",
+    "instagram": "https://instagram.com",
+    "facebook": "https://facebook.com",
+    "website": "https://www.carrd.co",
+      "featured": "yes",
+      "tiers": [
+        {
+          "id": 1,
+          "name": "Fan",
+          "price": 5,
+          "benefits": [
+            "Access to patron-only posts",
+            "Behind-the-scenes content",
+            "Early access to artworks"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Supporter",
+          "price": 10,
+          "benefits": [
+            "All previous rewards",
+            "Monthly digital wallpapers",
+            "Vote on future projects"
+          ]
+        },
+        {
+          "id": 3,
+          "name": "VIP",
+          "price": 25,
+          "benefits": [
+            "All previous rewards",
+            "Monthly live drawing sessions",
+            "Personal art feedback",
+            "Access to tutorial library"
+          ]
+        }
+      ]
+    }
+  ]
+}
